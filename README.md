@@ -13,7 +13,7 @@ At the end of this lab, I was able to know how to:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/zaidanali028/BasicPythonScripting-lab.git
-   cd BasicPythonScriptingLab
+   cd BasicPythonScripting-lab
 
 2. **Set up a virtual environment:**:
     ```
