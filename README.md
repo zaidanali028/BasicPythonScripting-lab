@@ -12,7 +12,7 @@ At the end of this lab, I was able to know how to:
 ## Setup and Installation
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/BasicPythonScriptingLab.git
+   git clone https://github.com/zaidanali028/BasicPythonScripting-lab.git
    cd BasicPythonScriptingLab
 
 2. **Set up a virtual environment:**:
